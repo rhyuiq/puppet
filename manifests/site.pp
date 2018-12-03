@@ -2,7 +2,7 @@ node default {
 	
 }
 
-node "precise64.amp.com.au" {
+node "precise64.test.com.au" {
 	include localusers
 	include localusers::groups::wheel
 	include localusers::groups::finance
